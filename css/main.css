@@ -1,0 +1,66 @@
+body{
+    direction: rtl;
+    font-family: Samim;
+}
+
+.my-5{
+    margin-top: 5rem!important;
+    margin-bottom: 2rem !important;
+}
+.p-card{
+    line-height: 35px;
+}
+.mt-5{
+    margin-top: 8.7rem !important;
+}
+.p-media{
+    font-size: 13px;
+}
+img{
+    cursor: pointer;
+}
+.btn-berger:focus{
+    outline: none;
+}
+.btn-outline-instagram{
+    background: transparent;
+    border: 1px solid #8940bd;
+    color: #8940bd;
+}
+.btn-outline-instagram:hover{
+    background: #8940bd;
+    color: white;
+}
+.bg-instagram{
+    background: #8940bd;
+}
+.contact{
+    height: auto;
+    background: #80bdff;
+}
+.bg-tr{
+    background: transparent;
+}
+.bg-tr:focus{
+    background: #6595c9;
+}
+.input-contact::placeholder{
+    color: black;
+}
+.footer-content{
+    background-color: #1d2124!important;
+    height: auto!important;
+}
+.list-item{
+    list-style: square;
+}
+.link-footer:hover{
+    text-decoration: none;
+}
+.list-style{
+    border-bottom: 4px solid #b33e3f;
+    border-radius: 4px;
+    width: 40%;
+    margin-bottom: 15px;
+
+}
